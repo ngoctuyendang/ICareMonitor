@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ICare Monitor</string>
+    <string name="start">Start</string>
+    <string name="todo">TODO</string>
+    <string name="please_finger_on_camera_lens">Please finger on camera lens</string>
+    <string name="flash">flash</string>
+    <string name="default_text">--</string>
+    <string name="content1">Ở cấp độ này nghĩa là bạn đang làm việc hết sức có thể, thường phù hợp cho các vận động viên hoặc người có sức khỏe cao.Hầu hết mọi người chỉ có thể duy trì mức độ nỗ lực này trong một khoảng thời gian ngắn, làm cho đây là khu vực khó khăn nhất và phù hợp hơn cho những người tập thể dục nâng cao</string>
+    <string name="title1">Cardiovascular Performance</string>
+    <string name="title2">Intermediate Aerobic</string>
+    <string name="content2">Vùng này có cường độ vừa phải, nó giúp cải thiện khả năng hiếu khí của bạn, giúp bạn đốt cháy chất béo và làm cho bạn trở nên cân đối hơn</string>
+    <string name="title3">Effective Fat Bunrning</string>
+    <string name="content3">Vùng này giúp bạn đốt cháy nhưng hiệu quả thấp hơn vùng Target Heart Rate Zone. Để giảm thiểu rủi ro về sức khỏe bạn nên dành ra 150 phút tập thể dục với cường độ vừa phải mỗi tuần.</string>
+    <string name="title4">Warm-Up/Cool-Down Zone</string>
+    <string name="content4">Vùng này giúp bạn giữ nhịp tim thoải mái và là lựa chọn tốt cho người mới bắt đầu hoặc khi khởi động. Bạn nên luôn luôn bắt đầu một buổi tập thể dục với một vài phút ở vùng cường độ thấp để lưu thông máu</string>
+    <string name="textNote">Ghi chú:</string>
+    <string name="textTime">Thời gian:</string>
+    <string name="textValue">Giá trị nhịp tim:</string>
+</resources>
